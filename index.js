@@ -27,12 +27,19 @@ function sayHiToGrandma(string)
   }
 }
 
-function syHiToGrandma(string)
+function sayHiToGrandma(string)
 {
   if (string === string.toLowerCase) {
     string = 'lowercase';
   }
 }
+
+function sayHiToGrandma(string)
+{
+  if ()
+}
+
+
 
 
   }
