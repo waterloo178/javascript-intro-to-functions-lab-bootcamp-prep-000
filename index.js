@@ -13,3 +13,7 @@ function logShout(string)
   return string.toUpperCase();
 }
 
+console.log(string);
+
+ 
+
