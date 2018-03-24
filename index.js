@@ -30,7 +30,7 @@ function sayHiToGrandma(string)
 
   if (string != string.toLowerCase().and.
       string != string.toUpperCase())
-    return "I love you too."
+    return "I love you, too."
 }
   
 
