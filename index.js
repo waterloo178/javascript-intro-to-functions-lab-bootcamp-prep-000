@@ -22,18 +22,15 @@ function logWhisper(string)
 
 function sayHiToGrandma(string)
 {
-  if (string === string.toUpperCase) {
-    string = 'YES INDEED!';
-  }
+  if (string === string.toUpperCase()) 
+    string1 = 'YES INDEED!';
+    retrun string1;
+    
+  if (string === string.toLowerCase()) 
+    string2 = "I can't hear you!";
+    return string2;
 }
-
-function sayHiToGrandma(string)
-{
-  if (string === string.toLowerCase) {
-    string = "I can't hear you!";
-  }
-}
-
+  
 
 
 
