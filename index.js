@@ -19,3 +19,25 @@ function logWhisper(string)
   var string2 = string.toLowerCase();
   console.log(string2);
 }
+
+function sayHiToGrandma(string)
+{
+  if (string === string.toUpperCase) {
+    string = 'uppercase';
+  }
+}
+
+function syHiToGrandma(string)
+{
+  if (string === string.toLowerCase) {
+    string = 'lowercase';
+  }
+}
+
+
+  }
+}
+
+
+
+
